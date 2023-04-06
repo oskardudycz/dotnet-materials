@@ -18,3 +18,12 @@ Some .NET materials found down the road
 
 ## Web Assembly
 - [Steve Sanderson - DotNetIsolator: an experimental package for running .NET code in an isolated sandbox](https://www.youtube.com/watch?v=5u1UaqkPZbg)
+
+## Command Line
+- [CliWrap - Library for running command-line processes](https://github.com/Tyrrrz/CliWrap)
+
+## SignalR
+- [Shawn Shi - Optimizing Long-Running Tasks with Background Services and SignalR Notifications](https://medium.com/geekculture/complete-long-running-tasks-in-the-background-and-notify-clients-in-real-time-asynchronously-19849f06279e)
+
+## .NET and C# versions
+- [Johny Hooybergs - What is new in .NET 7 and C# 11](https://github.com/Djohnnie/DotNet7-Swetugg-Stockholm-2023)
